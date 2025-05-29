@@ -1,4 +1,3 @@
-// src/components/NewsDetail.js
 import React from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 
